@@ -24,7 +24,7 @@ export const img = {
   exterior: "/images/exterior.jpeg",
   logo: "/images/logo.png",
   manchurian: "/images/manchurian.jpg",
-  patio: "/images/patio.jpg",
+  patio: "/images/patio.png",
   platter: "/images/platter.jpg",
   signage: "/images/signage.jpg",
 };
