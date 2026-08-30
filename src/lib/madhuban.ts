@@ -7,15 +7,26 @@ import patio from "@/assets/patio.asset.json";
 import platter from "@/assets/platter.asset.json";
 import signage from "@/assets/signage.asset.json";
 
+// export const img = {
+//   biryani: biryani.url,
+//   crispy: crispy.url,
+//   exterior: exterior.url,
+//   logo: logo.url,
+//   manchurian: manchurian.url,
+//   patio: patio.url,
+//   platter: platter.url,
+//   signage: signage.url,
+// };
+
 export const img = {
-  biryani: biryani.url,
-  crispy: crispy.url,
-  exterior: exterior.url,
-  logo: logo.url,
-  manchurian: manchurian.url,
-  patio: patio.url,
-  platter: platter.url,
-  signage: signage.url,
+  biryani: "/images/biryani.jpg",
+  crispy: "/images/crispy.jpg",
+  exterior: "/images/exterior.jpeg",
+  logo: "/images/logo.png",
+  manchurian: "/images/manchurian.jpg",
+  patio: "/images/patio.jpg",
+  platter: "/images/platter.jpg",
+  signage: "/images/signage.jpg",
 };
 
 export const PHONE = "+919699674265";
