@@ -86,7 +86,7 @@ export const MENU: MenuCategory[] = [
     items: [
       { name: "Paneer Tikka", desc: "Chargrilled cottage cheese & spices", price: "₹290" },
       { name: "Veg Crispy", desc: "Batter-fried vegetables, schezwan toss", price: "₹220" },
-      { name: "Veg Seekh Kebab", desc: "Spinach, peas and potato, mint chutney", price: "₹420" },
+      { name: "Veg Seekh Kebab", desc: "Spinach, peas and potato, mint chutney", price: "₹240" },
       { name: "Mushroom Chilli", desc: "Button mushrooms, peppers, garlic", price: "₹255" },
     ],
   },
