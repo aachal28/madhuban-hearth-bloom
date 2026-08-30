@@ -19,13 +19,13 @@ import signage from "@/assets/signage.asset.json";
 // };
 
 export const img = {
-  biryani: "/images/biryani.jpg",
+  biryani: "/images/biryani.jpeg",
   crispy: "/images/crispy.jpg",
   exterior: "/images/exterior.jpeg",
   logo: "/images/logo.png",
-  manchurian: "/images/manchurian.jpg",
+  manchurian: "/images/manchurian.jpeg",
   patio: "/images/patio.png",
-  platter: "/images/platter.jpg",
+  platter: "/images/platter.jpeg",
   signage: "/images/signage.jpeg",
 };
 
