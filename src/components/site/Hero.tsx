@@ -19,7 +19,7 @@ export function Hero() {
         loading="eager"
       />
       <div className="absolute inset-0 bg-[linear-gradient(100deg,oklch(0.18_0.05_155/0.94)_0%,oklch(0.18_0.05_155/0.72)_44%,oklch(0.18_0.05_155/0.25)_100%)]" />
-      <div className="absolute inset-x-0 bottom-0 h-56 bg-[linear-gradient(to_top,var(--cream),transparent)] opacity-40" />
+      <div className="absolute inset-x-0 bottom-0 h-56 bg-[linear-gradient(to_top,var(--cream),transparent)] opacity-20" />
 
       {/* decorative motifs */}
       <Leaf
