@@ -54,7 +54,7 @@ export function MenuPreview() {
         </div>
 
         <a
-          href={WHATSAPP}
+          href="https://wa.me/c/919090674545"
           target="_blank"
           rel="noreferrer"
           className="group mt-12 inline-flex items-center gap-2 text-[0.8rem] font-medium tracking-[0.16em] text-forest uppercase"
