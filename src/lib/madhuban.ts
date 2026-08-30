@@ -29,13 +29,13 @@ export const img = {
   signage: "/images/signage.jpeg",
 };
 
-export const PHONE = "+919699674265";
-export const PHONE_DISPLAY = "+91 96996 74265";
-export const WHATSAPP = `https://wa.me/919699674265?text=${encodeURIComponent(
+export const PHONE = "+919090674545";
+export const PHONE_DISPLAY = "+919090674545";
+export const WHATSAPP = `https://wa.me/919090674545?text=${encodeURIComponent(
   "Hello Madhuban Pure Veg, I'd like to place an order.",
 )}`;
-export const ADDRESS = "Madhuban Pure Veg, Family Restaurant & Party Hall, Nashik, Maharashtra";
-export const MAPS = "https://maps.google.com/?q=Madhuban+Pure+Veg+Family+Restaurant";
+export const ADDRESS = "Lakshmi Rd, near Ellora Shopee, Indrayani Nagar, Chaitanya Park, Sector No. 1, Bhosari, Pune, Pimpri-Chinchwad, Maharashtra 411039";
+export const MAPS = "https://maps.app.goo.gl/Qu9EMu86jnJb4vx79";
 
 export const NAV = [
   { label: "Home", href: "#home" },
