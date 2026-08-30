@@ -55,7 +55,7 @@ export const SIGNATURE = [
   },
   {
     name: "Veg Crispy",
-    price: "₹240",
+    price: "₹220",
     desc: "Golden batter-fried vegetables in a sweet-hot schezwan toss, spring onion finish.",
     image: img.crispy,
   },
@@ -67,7 +67,7 @@ export const SIGNATURE = [
   },
   {
     name: "Hyderabadi Veg Biryani",
-    price: "₹260",
+    price: "₹310",
     desc: "Long-grain rice layered with saffron, garden vegetables, mint and fried onion.",
     image: img.biryani,
   },
@@ -85,9 +85,9 @@ export const MENU: MenuCategory[] = [
     label: "Starters",
     items: [
       { name: "Paneer Tikka", desc: "Chargrilled cottage cheese & spices", price: "₹290" },
-      { name: "Veg Crispy", desc: "Batter-fried vegetables, schezwan toss", price: "₹240" },
-      { name: "Hara Bhara Kabab", desc: "Spinach, peas and potato, mint chutney", price: "₹220" },
-      { name: "Mushroom Chilli", desc: "Button mushrooms, peppers, garlic", price: "₹260" },
+      { name: "Veg Crispy", desc: "Batter-fried vegetables, schezwan toss", price: "₹220" },
+      { name: "Veg Seekh Kebab", desc: "Spinach, peas and potato, mint chutney", price: "₹420" },
+      { name: "Mushroom Chilli", desc: "Button mushrooms, peppers, garlic", price: "₹255" },
     ],
   },
   {
@@ -95,9 +95,9 @@ export const MENU: MenuCategory[] = [
     label: "Main Course",
     items: [
       { name: "Paneer Butter Masala", desc: "Silky tomato gravy, cashew, cream", price: "₹300" },
-      { name: "Dal Tadka", desc: "Comforting yellow lentils, ghee tempering", price: "₹180" },
-      { name: "Palak Paneer", desc: "Slow-cooked spinach, fresh cottage cheese", price: "₹280" },
-      { name: "Veg Kolhapuri", desc: "Fiery Maharashtrian masala, mixed vegetables", price: "₹270" },
+      { name: "Dal Tadka", desc: "Comforting yellow lentils, ghee tempering", price: "₹170" },
+      { name: "Palak Paneer", desc: "Slow-cooked spinach, fresh cottage cheese", price: "₹300" },
+      { name: "Veg Kolhapuri", desc: "Fiery Maharashtrian masala, mixed vegetables", price: "₹230" },
     ],
   },
   {
@@ -106,35 +106,35 @@ export const MENU: MenuCategory[] = [
     items: [
       { name: "Butter Naan", desc: "Tandoor-baked, brushed with white butter", price: "₹60" },
       { name: "Tandoori Roti", desc: "Whole wheat, clay oven", price: "₹35" },
-      { name: "Lachha Paratha", desc: "Flaky layered paratha", price: "₹70" },
-      { name: "Cheese Garlic Naan", desc: "Molten cheese, roasted garlic", price: "₹110" },
+      { name: "Lachha Paratha", desc: "Flaky layered paratha", price: "₹60" },
+      { name: "Cheese Garlic Naan", desc: "Molten cheese, roasted garlic", price: "₹99" },
     ],
   },
   {
     id: "rice",
     label: "Rice",
     items: [
-      { name: "Hyderabadi Veg Biryani", desc: "Saffron rice, vegetables, fried onion", price: "₹260" },
+      { name: "Hyderabadi Veg Biryani", desc: "Saffron rice, vegetables, fried onion", price: "₹310" },
       { name: "Jeera Rice", desc: "Basmati tempered with cumin & ghee", price: "₹150" },
-      { name: "Veg Pulao", desc: "Fragrant rice with garden vegetables", price: "₹190" },
-      { name: "Curd Rice", desc: "Cooling south-style curd rice", price: "₹160" },
+      { name: "Veg Pulao", desc: "Fragrant rice with garden vegetables", price: "₹240" },
+      { name: "Curd Rice", desc: "Cooling south-style curd rice", price: "₹170" },
     ],
   },
   {
     id: "chinese",
     label: "Indo-Chinese",
     items: [
-      { name: "Veg Manchurian Dry", desc: "Crispy vegetable dumplings, garlic glaze", price: "₹250" },
-      { name: "Veg Manchurian Gravy", desc: "Dumplings in a rich soya-chilli gravy", price: "₹250" },
-      { name: "Hakka Noodles", desc: "Wok-tossed noodles, julienne vegetables", price: "₹210" },
-      { name: "Schezwan Fried Rice", desc: "Rice tossed in house schezwan", price: "₹220" },
+      { name: "Veg Manchurian Dry", desc: "Crispy vegetable dumplings, garlic glaze", price: "₹220" },
+      { name: "Veg Manchurian Gravy", desc: "Dumplings in a rich soya-chilli gravy", price: "₹240" },
+      { name: "Hakka Noodles", desc: "Wok-tossed noodles, julienne vegetables", price: "₹220" },
+      { name: " Veg Triple Schezwan Rice", desc: "Rice tossed in house schezwan", price: "₹310" },
     ],
   },
   {
     id: "desserts",
     label: "Desserts",
     items: [
-      { name: "Gulab Jamun", desc: "Warm khoya dumplings in rose syrup", price: "₹120" },
+      { name: "Gulab Jamun", desc: "Warm khoya dumplings in rose syrup", price: "₹89" },
       { name: "Sizzling Brownie", desc: "Chocolate brownie, vanilla, hot fudge", price: "₹220" },
       { name: "Gajar Halwa", desc: "Slow-cooked carrot halwa, dry fruits", price: "₹150" },
       { name: "Kulfi Falooda", desc: "Malai kulfi, vermicelli, rose", price: "₹160" },
