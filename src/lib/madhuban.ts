@@ -135,9 +135,9 @@ export const MENU: MenuCategory[] = [
     label: "Desserts",
     items: [
       { name: "Gulab Jamun", desc: "Warm khoya dumplings in rose syrup", price: "₹89" },
-      { name: "Sizzling Brownie", desc: "Chocolate brownie, vanilla, hot fudge", price: "₹220" },
-      { name: "Gajar Halwa", desc: "Slow-cooked carrot halwa, dry fruits", price: "₹150" },
-      { name: "Kulfi Falooda", desc: "Malai kulfi, vermicelli, rose", price: "₹160" },
+      { name: "Vanilla Ice Cream", desc: "Creamy vanilla ice cream with chocolate syrup.", price: "₹119" },
+      { name: "Mango Ice Cream", desc: "Smooth and refreshing mango ice cream.", price: "₹79" },
+      { name: "Chocolate Ice Cream", desc: "Rich and creamy chocolate ice cream.", price: "₹119" },
     ],
   },
 ];
