@@ -20,7 +20,7 @@ import signage from "@/assets/signage.asset.json";
 
 export const img = {
   biryani: "/images/biryani.jpeg",
-  crispy: "/images/crispy.jpg",
+  crispy: "/images/crispy.jpeg",
   exterior: "/images/exterior.jpeg",
   logo: "/images/logo.png",
   manchurian: "/images/manchurian.jpeg",
