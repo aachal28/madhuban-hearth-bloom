@@ -144,6 +144,12 @@ export const MENU: MenuCategory[] = [
 
 export const TESTIMONIALS = [
   {
+  quote:
+    "Trusted by thousands on Google, Zomato, and Justdial! We are proudly one of the best when it comes to authentic taste and premium service. Thank you for making Madhuban your favorite family restaurant.",
+  name: "Madhuban Pure Veg",
+  meta: "Google, Zomato & Justdial",
+},
+  {
     quote:
       "The food was fresh, flavourful and the ambience made our family dinner even better. The paneer tikka is easily the best in the area.",
     name: "Priyanka S.",
