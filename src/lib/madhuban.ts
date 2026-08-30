@@ -26,7 +26,7 @@ export const img = {
   manchurian: "/images/manchurian.jpg",
   patio: "/images/patio.png",
   platter: "/images/platter.jpg",
-  signage: "/images/signage.jpg",
+  signage: "/images/signage.jpeg",
 };
 
 export const PHONE = "+919699674265";
